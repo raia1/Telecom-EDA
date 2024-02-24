@@ -36,6 +36,29 @@ Kernel density plots (KDE) are used to analyze 'MonthlyCharges' stratified by ch
 Differences in distributions suggest relationship between monthly charges and churn.
 Further numerical univariate analysis reveals insights into churn behavior based on monthly charges.
 
+**Univariate and Bivariate Analysis:**
+
+**Univariate Analysis:**
+
+Numerical analysis of 'MonthlyCharges' revealed differences in churn behavior based on monthly charges.
+KDE plots helped understand the relationship between monthly charges and churn.
+Insights derived from univariate analysis provided initial intuition into churn behavior.
+Univariate and Bivariate Analysis:
+Univariate Analysis:
+
+Numerical analysis of 'MonthlyCharges' revealed differences in churn behavior based on monthly charges.
+KDE plots helped understand the relationship between monthly charges and churn.
+Insights derived from univariate analysis provided initial intuition into churn behavior.
+**Bivariate Analysis:**
+
+Categorical analysis of predictor categories with respect to churn status provided insights into predictors impacting churn behavior.
+Comparison of churned and non-churned customers within each category helped identify potential predictors of churn.
+Observations from bivariate analysis aided in understanding the relationship between predictors and churn.
+
+Categorical analysis of predictor categories with respect to churn status provided insights into predictors impacting churn behavior.
+Comparison of churned and non-churned customers within each category helped identify potential predictors of churn.
+Observations from bivariate analysis aided in understanding the relationship between predictors and churn.
+
 **Final Thoughts:**
 Churn rate for Total charges is higher when the total charge is low, suggesting potential reasons such as early churn.
 High monthly charges are associated with higher churn rates.
